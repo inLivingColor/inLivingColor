@@ -9,5 +9,5 @@ inLivingColor/inLivingColor is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 ---> Hello world
 I'm interested in everything blockchain
-to take control of our own reality
+technology
 
